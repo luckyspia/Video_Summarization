@@ -5,6 +5,8 @@ __pycache__/
 inference/pretrained_models/
 *.h5
 ydata-tvsum50-v1_1/
+data/AIhub/
+scenes/
 
 # C extensions
 *.so
