@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 inference/pretrained_models/
 *.h5
-
+ydata-tvsum50-v1_1/
 
 # C extensions
 *.so
