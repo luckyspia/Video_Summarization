@@ -1,2 +1,2 @@
-# YouTube_shorts
-YouTube Shorts Auto Creating Service 
+# Video_Summarization
+For YouTube Shorts Auto Creating Service 
