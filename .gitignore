@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+inference/pretrained_models/
+*.h5
+
 
 # C extensions
 *.so
